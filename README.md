@@ -22,14 +22,14 @@ Pieter's Pearls of Wisdom
 -	Boolean questions (did, does, will, is) deserve boolean answers. You can always explain the proof afterwards if necessary. 
 -	Help with little things. Prioritize big things. Note that repetitive little things is just a big thing in disguise.
 ## Web pages to read (short):
-[Akin's Law of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
-[Unwritten Laws of Software Engineering](https://www.evansopticalengineering.com/page00/sysenlaw.htm)
-[How Complex Systems Fail]()(https://how.complexsystems.fail/)
-[The Stages of Scaling Companies](https://caseyaccidental.com/scaling-up)
-[What Got You Here Will Not Get You There](https://jamesclear.com/book-summaries/what-got-you-here-wont-get-you-there)
+- [Akin's Law of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
+- [Unwritten Laws of Software Engineering](https://www.evansopticalengineering.com/page00/sysenlaw.htm)
+- [How Complex Systems Fail]()(https://how.complexsystems.fail/)
+- [The Stages of Scaling Companies](https://caseyaccidental.com/scaling-up)
+- [What Got You Here Will Not Get You There](https://jamesclear.com/book-summaries/what-got-you-here-wont-get-you-there)
 ## [Books to read (short & long)
-[Geek Leader's Handbook]
-[Unwritten Laws of Engineering](https://www.amazon.com/Unwritten-Laws-Engineering-Revised-Updated/dp/0791801624/ref=sr_1_1?s=books&ie=UTF8&qid=1468436972&sr=1-1&keywords=unwritten+laws+of+engineering)
-[Death By Meeting]
-[Culture Map]
-[From good to great]
+- [Geek Leader's Handbook]
+- [Unwritten Laws of Engineering](https://www.amazon.com/Unwritten-Laws-Engineering-Revised-Updated/dp/0791801624/ref=sr_1_1?s=books&ie=UTF8&qid=1468436972&sr=1-1&keywords=unwritten+laws+of+engineering)
+- [Death By Meeting]
+- [Culture Map]
+- [From good to great]
