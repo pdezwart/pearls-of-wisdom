@@ -22,6 +22,7 @@ Pieter's Pearls of Wisdom
 -	Boolean questions (did, does, will, is) deserve boolean answers. You can always explain the proof afterwards if necessary. 
 -	Help with little things. Prioritize big things. Note that repetitive little things is just a big thing in disguise.
 -	Tackle the largest unknowns first. Until you do, you don't have plan, you have wishes.
+- It is more important to be good ancestors than dutiful descendents. Do not be a custodian of the past, be a steward of the future.
 ## Web pages to read (short):
 - [Akin's Law of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 - [Unwritten Laws of Software Engineering](https://www.evansopticalengineering.com/page00/sysenlaw.htm)
