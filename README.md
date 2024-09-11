@@ -29,6 +29,7 @@ Pieter's Pearls of Wisdom
 - [How Complex Systems Fail]()(https://how.complexsystems.fail/)
 - [The Stages of Scaling Companies](https://caseyaccidental.com/scaling-up)
 - [What Got You Here Will Not Get You There](https://jamesclear.com/book-summaries/what-got-you-here-wont-get-you-there)
+- [Bitter Lessons about More Data](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 ## [Books to read (short & long)
 - [Geek Leader's Handbook]
 - [Unwritten Laws of Engineering](https://www.amazon.com/Unwritten-Laws-Engineering-Revised-Updated/dp/0791801624/ref=sr_1_1?s=books&ie=UTF8&qid=1468436972&sr=1-1&keywords=unwritten+laws+of+engineering)
