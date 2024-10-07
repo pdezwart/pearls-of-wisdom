@@ -4,7 +4,7 @@ Pieter's Pearls of Wisdom
 # Pieter's Pearls of Wisdom
 ## Maxims (presented in no particular order)
 -	Your job is to make your boss look good and not to worry about you. This requires you to [manage up](https://hbr.org/2015/01/what-everyone-should-know-about-managing-up).
--	Help people. If someone asks a legitimate question that you cannot fulfill, help them find an alternate source of answer.
+-	Help people. If someone asks a legitimate question that you cannot fulfill, help them find an alternate source of answer. Don't pawn them, follow the thread for them.
 -	You aren’t paid to be right, you are paid to drive results. Don’t focus on who is right, focus on how you get good products into the hands of good customers.
 -	What got you here will not get you there. You need to constantly evolve the scope in which you are thinking and what problems you are trying to solve.
 -	Be offensive with bad news, i.e. share it early and clearly with stakeholders. Explain what you are doing to fix it, or ask for help if you need.
@@ -14,7 +14,7 @@ Pieter's Pearls of Wisdom
 -	Don't be a source of [FUD](https://www.urbandictionary.com/define.php?term=Fud). If there is a concern, point it out and consider solutions or remediations.
 -	Be aware of [Rubber Ducky](https://en.wikipedia.org/wiki/Rubber_duck_debugging) and [Bike Shedding](https://en.wikipedia.org/wiki/Law_of_triviality) principles.
 -	Seek out understanding. Do not let understanding come to you. Assumptions about things always end up hurting you, and more importantly, others. 
--	If something is broken, assume you broke it before you assume anyone else did.  
+-	If something is broken, assume you broke it before you assume anyone else did.
 -	Make sure you are [listening and not reloading](https://www.huffpost.com/entry/self-help-personality-are_b_650627). Smart people like to talk. Wise people like to listen. 
 -	Veterans and leaders love to help others learn (really, they just love to reminisce and showcase their knowledge.) Use that against them and make them show you how knowledgeable they are by asking lots of questions and learning lots of things. 
 -	Pragmatism always wins. Akin's Law #13:  Design is based on requirements. There's no justification for designing something one bit "better" than the requirements dictate. 
@@ -23,6 +23,7 @@ Pieter's Pearls of Wisdom
 -	Help with little things. Prioritize big things. Note that repetitive little things is just a big thing in disguise.
 -	Tackle the largest unknowns first. Until you do, you don't have plan, you have wishes.
 - It is more important to be good ancestors than dutiful descendents. Do not be a custodian of the past, be a steward of the future.
+- Make an extreme assumption of positive intent. Do this even if you need to discard prior empirical evidence to the contrary. You will be surprised how often people live up to the assumptions you have, so have positive ones instead.
 ## Web pages to read (short):
 - [Akin's Law of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 - [Unwritten Laws of Software Engineering](https://www.evansopticalengineering.com/page00/sysenlaw.htm)
