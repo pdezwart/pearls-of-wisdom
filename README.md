@@ -24,6 +24,7 @@ Pieter's Pearls of Wisdom
 -	Tackle the largest unknowns first. Until you do, you don't have plan, you have wishes.
 - It is more important to be good ancestors than dutiful descendents. Do not be a custodian of the past, be a steward of the future.
 - Make an extreme assumption of positive intent. Do this even if you need to discard prior empirical evidence to the contrary. You will be surprised how often people live up to the assumptions you have, so have positive ones instead.
+- Akin's Law #100 (Law of Project Reviews) Answer "when" questions with a date, "who" questions with a name, "quantitative" questions with number, etc. If the answer is a guess, say it and report when a revision will be delivered. Only after answering the question should you provide additional context.
 ## Web pages to read (short):
 - [Akin's Law of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 - [Unwritten Laws of Software Engineering](https://www.evansopticalengineering.com/page00/sysenlaw.htm)
